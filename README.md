@@ -25,3 +25,6 @@ An ArcDPS addon for Guild Wars 2 with cinematic/dialogue skip, confirmation over
 Open the settings window via the ArcDPS options panel ("QoL-Tweaks" entry). The in-game status panel shows green "Status: OK" when all hooks are active, or per-hook error messages if any scan failed.
 
 Settings are saved automatically when changed.
+
+## Downloads
+![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
