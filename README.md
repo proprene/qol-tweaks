@@ -26,5 +26,4 @@ Open the settings window via the ArcDPS options panel ("QoL-Tweaks" entry). The 
 
 Settings are saved automatically when changed.
 
-## Downloads
-![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
+# Downloads ![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
