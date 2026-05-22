@@ -1,3 +1,5 @@
+![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
+
 # QoL-Tweaks (arcdps_qol_tweaks.dll)
 
 An ArcDPS addon for Guild Wars 2 with cinematic/dialogue skip, confirmation overrides, clone hiding, and bank performance fixes.
@@ -26,4 +28,4 @@ Open the settings window via the ArcDPS options panel ("QoL-Tweaks" entry). The 
 
 Settings are saved automatically when changed.
 
-# Downloads ![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
+![GitHub Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks/total)
